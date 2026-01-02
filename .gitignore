@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# hls4ml / FPGA outputs
+hls4ml_prj_*/
+package/
+results/
+*.bit
+*.hwh
+*.log
+*.jou
+*.str
