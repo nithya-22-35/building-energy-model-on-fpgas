@@ -78,5 +78,5 @@ def build_fpga_bitstream(csv_path):
 
 if __name__ == "__main__":
     # Update this path to your dataset CSV
-    build_fpga_bitstream("data/building_energy.csv")
+    build_fpga_bitstream("building_energy.csv")
 
